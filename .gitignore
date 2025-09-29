@@ -1,0 +1,11 @@
+.envrc
+.eslintrc.json
+node_modules
+dist
+*.tgz
+!lucid-cardano*.tgz
+.direnv
+.env
+.npmrc
+logs/
+tmp/

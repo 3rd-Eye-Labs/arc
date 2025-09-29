@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "sourceMap": true,
+    "module": "nodenext",
+    "target": "ESNext",
+    "moduleResolution": "nodenext",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "allowUnreachableCode": true
+  },
+  "include": ["src/**/*.ts", "tests/**/*.ts", "vitest.config.ts"],
+  "exclude": ["dist", "node_modules"]
+}
