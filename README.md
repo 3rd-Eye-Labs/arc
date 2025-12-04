@@ -1,13 +1,13 @@
 
 ## Installation
 ##### NPM
-`$ npm install @3rd-Eye-Labs/arc`
+`$ npm install @third-eye-labs/arc`
 
 ##### PNPM
-`$ pnpm install @3rd-Eye-Labs/arc`
+`$ pnpm install @third-eye-labs/arc`
 
 ##### Yarn
-`$ yarn add @3rd-Eye-Labs/arc`
+`$ yarn add @third-eye-labs/arc`
 
 ## Using
 
